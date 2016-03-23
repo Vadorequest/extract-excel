@@ -1,0 +1,6 @@
+{
+  "name": "extract-excel",
+  "version": "1.0.0",
+  "description": "Extract Excel data (malformatted) and returns well formatted CSV file.",
+  "author": "Vadorequest"
+}
